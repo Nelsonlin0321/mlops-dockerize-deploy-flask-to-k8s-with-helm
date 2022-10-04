@@ -1,5 +1,7 @@
 # mlops-dockerize-deploy-flask-to-k8s-with-helm
 
+from https://www.youtube.com/watch?v=SdTzwYmsgoU&t=3790s
+
 1. Installing Python 3.x
 2. Creating Python Virtual Env
 
